@@ -51,4 +51,4 @@ const imARealBoi = async () => {
 }
 
 // run da boi!!!
-imARealBoi()
+await imARealBoi()
